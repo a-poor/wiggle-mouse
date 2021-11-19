@@ -1,7 +1,7 @@
 {
   "name": "wiggle-mouse",
   "description": "A CLI to keep your screen active by moving the mouse around",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "a-poor @a-poor",
   "bin": {
     "wiggle-mouse": "./bin/run"
